@@ -1,10 +1,1 @@
-registry
-busybox
-httpd
-nginx
-python:3.7
-swarm
-mysql
-owncloud
-tensorflow/tensorflow
-tensorflow:1.14.0-py3-jupyter
+tensorflow:latest-py3-jupyter
