@@ -1,1 +1,1 @@
-registry.k8s.io/pause:3.10.2
+docker.io/flannel/flannel-cni-plugin:v1.2.0
