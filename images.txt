@@ -1,1 +1,7 @@
-ubuntu
+kube-apiserver:v1.30.0
+kube-controller-manager:v1.30.0
+kube-scheduler:v1.30.0
+kube-proxy:v1.30.0
+coredns/coredns:v1.11.1
+pause:3.9
+etcd:3.5.12-0
